@@ -41,4 +41,4 @@ How to Migrate from Vue CLI to Vite
 
 - Vue CLI to Vite Migration Guide: A comprehensive guide on migrating from Vue CLI to Vite, available on [VueSchool.io](https://vueschool.io/articles/vuejs-tutorials/how-to-migrate-from-vue-cli-to-vite/)
 - Tools and Plugins for Migration: For a smoother transition, check out the list of tools and plugins designed to assist with the migration process on the
-  [Awesome Vite GitHub page](https://github.com/vitejs/awesome-vite#vue-cli).
+  [Awesome Vite GitHub page](https://github.com/vitejs/awesome-vite#vue-cli)
